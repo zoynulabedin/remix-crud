@@ -1,9 +1,3 @@
 export default function Index() {
-  return (
-    <p id="index-page">
-      This is a demo for Remix.
-      <br />
-      Check out <a href="https://remix.run">the docs at remix.run</a>.
-    </p>
-  );
+  return <h1>This is a Remix crud project.</h1>;
 }
